@@ -11,8 +11,8 @@ Huge Topic Overview (should understand these topics ahead of time if you are try
 
 These next 3 are sorta like side-topics that appear often over the semester, but you don't see their importance at first.
 - DFS/BFS -- 1st less obvious topic -- topic isn't covered much in lecture, but these use Stack/Queue and you will see these kinds of traversals repeatedly over the semester and next few years as a computer scientist, especially with any kind of Graph traversals (CS374)
-- Iterators -- 2nd less obvious topic -- Hard to implement from scratch -- should focus on understanding how to use them with EVERY data structure -- it would make your life a lot easier
--( "Vectors" -- after leraning about array, lists, stacks, and queues, std::vector can accomplish most of what these accomplish right away without you having to write any code from scratch -- Vectors are very useful in C++, I mainly used them in POTD's)
+- Iterators -- 2nd less obvious topic -- Hard to implement from scratch -- should focus on understanding how to use them with EVERY data structure -- it would make your life a lot easier.
+- ("Vectors" -- after leraning about array, lists, stacks, and queues, std::vector can accomplish most of what these accomplish right away without you having to write any code from scratch -- Vectors are very useful in C++, I mainly used them in POTD's)
 
 - BST
 - AVL (didn't get tested on that much, but the rotations are still relevant material in my opinion)
