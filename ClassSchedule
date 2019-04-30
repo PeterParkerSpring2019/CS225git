@@ -1,0 +1,19 @@
+mp_intro (simple stuff - requires no CS225 knowledge to do. May be a little difficult learning the PNG and HSLA files and C++)
+mp_stickers (can't remember much about this one -- I think it was trying to get us comfortable with C++ still)
+mp_lists (first Big MP -- deals a lot with complicated linked list code. Understand the solution and edge cases. Debugging is Annoying)
+mp_traversals (The HARDEST MP -- office hours will help with this one IF you go early. Look at lab_trees iterator traversal for ideas)
+mp_mosaics (my favorite mp, but I had all spring break to figure it out. Logic is VERY in-depth, so draw out many examples beforehand)
+mp_mazes (Again, the logic is stupidly in-depth. I spent 5 hours drawing it out with my best friend, and we passed all cases on first try)
+mp_stories (Very simple 'logically'. But this MP is EVIL! the type names are annoyingly difficult. Logic of AdjLists is important though)
+
+(Side-note: although the labs aren't worth a lot of points at all, they ARE the most important resource in this class.)
+    (Most exams are styled directly like the labs, and rarely ever focus on MP's. So use labs to help understand MP's and study
+    for exams!)
+    
+(Also, these early labs aren't too important, just showcasing programming and C++ skills that won't directly help you once you 
+hit trees in this class up until the very end. Specifically lab_trees/btree/hash/heaps are probably some of the more heavy mp-like
+labs you'll encounter this semester. Start these early and maybe attend multiple labs because that's what I did).
+
+intro - debug - memory - inheritance - quacks - trees - huffman - avl - btree - hash - heaps - dict - ml - flow
+
+(quacks is where the labs start getting harder and MUCH MORE important so pay attention once you hit quacks)!!!
