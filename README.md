@@ -1,4 +1,6 @@
 # CS225 DataStructures (Spring 2019)
+https://github.com/PeterParkerSpring2019/CS225git
+
 CS225 course Spring 2019. DON'T EVER use copy and paste. If you look at this code, you need to write it from scratch. Use this only as a resource for hints. DO YOUR OWN ASSIGNMENTS, but don't waste your time. This semester was taught by Craig Zilles but uses the same structure that Wade was using for the past 2 years.
 
 --------------------------------------------------------------------------
